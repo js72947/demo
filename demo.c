@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void foo(){
-    printf("Hello dad!\n");
+    printf("Hello grand-dad!\n");
 }
 
 int main(int argc, char * argv[]){
